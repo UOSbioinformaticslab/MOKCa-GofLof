@@ -1,8 +1,8 @@
-# MOKCa-GofLof: Machine Learning Models for Functional Variant Classification
+# MOKCa-GofLof: Machine Learning Models for Functional Variant Classification of Cancer Associated Somatic Missense Mutations
 
 ## Overview
 
-This repository contains Jupyter notebooks (`.ipynb`) for machine-learning analyses aimed at classifying genetic variants according to their functional effects. The repository is organised into three directories, each addressing a different classification task: gain-of-function (GOF) versus loss-of-function (LOF), multi-class classification of neutral, GOF, and LOF variants, and binary classification of neutral versus pathogenic variants.
+This repository contains Jupyter notebooks (`.ipynb`) for machine-learning analyses aimed at classifying cancer-associated missense variants according to their functional effects. The repository is organised into three directories, each addressing a different classification task: gain-of-function (GOF) versus loss-of-function (LOF), multi-class classification of neutral, GOF, and LOF variants, and binary classification of neutral versus pathogenic variants.
 
 The notebooks document the model training and analysis workflows and provide a reproducible starting point for exploring machine-learning approaches to functional variant classification.
 
@@ -85,7 +85,6 @@ The notebooks are designed to run in a Python environment with Jupyter Notebook 
 
 This repository is intended for research into machine-learning approaches for genetic variant classification and functional effect prediction. Model performance and predictions should be interpreted in the context of the datasets, feature selection, training procedures, and validation strategies used in the notebooks.
 
-Predictions from these models should not be treated as definitive clinical classifications without appropriate independent validation.
 
 ## Repository
 
